@@ -1,11 +1,13 @@
 # Towards Minimum Latency Real-Time Piano Transcription
-===
+---
 
 This repository contains the code to run inference and evaluation for the causal minimum-latency piano transcription model described in:
 
-**Exploring System Adaptations for Minimum Latency Real-Time Piano Transcription**
-Authors:  Patricia Hu, Silvan Peter, Jan Schlüter, Gerhard Widmer
-Presented at ISMIR 2025
+> **Exploring System Adaptations for Minimum Latency Real-Time Piano Transcription**
+>
+> Authors. Patricia Hu, Silvan Peter, Jan Schlüter, Gerhard Widmer
+>
+> Presented at ISMIR 2025
 
 ## Overview
 This repository includes inference code and checkpoint to run and evaluate our final model configuration (see Section 4.4 in the paper).
